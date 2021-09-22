@@ -1,0 +1,3 @@
+pysimplegui
+PyPDF2
+Pillow
